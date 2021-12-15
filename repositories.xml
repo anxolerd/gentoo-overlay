@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>anxolerd</name>
+		<description lang="en">Oleksandr's Custom Gentoo Overlay.</description>
+		<homepage>https://github.com/anxolerd/gentoo-overlay</homepage>
+		<owner type="person">
+			<name>Oleksandr Kovalchuk</name>
+			<email>anxolerd@outlook.com</email>
+		</owner>
+		<source type="git">git://github.com/anxolerd/gentoo-overlay.git</source>
+		<feed>https://github.com/anxolerd/gentoo-overlay/commits/master.atom</feed>
+	</repo>
+</repositories>
