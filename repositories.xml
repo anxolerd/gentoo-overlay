@@ -9,6 +9,6 @@
 			<email>anxolerd@outlook.com</email>
 		</owner>
 		<source type="git">git://github.com/anxolerd/gentoo-overlay.git</source>
-		<feed>https://github.com/anxolerd/gentoo-overlay/commits/master.atom</feed>
+		<feed>https://github.com/anxolerd/gentoo-overlay/commits/main.atom</feed>
 	</repo>
 </repositories>
