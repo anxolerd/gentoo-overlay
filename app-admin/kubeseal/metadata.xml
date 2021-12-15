@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>anxolerd@outlook.com</email>
+		<name>Oleksandr Kovalchuk</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="github">bitnami-labs/sealed-secrets</remote-id>
+		<bugs-to>https://github.com/bitnami-labs/sealed-secrets/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
