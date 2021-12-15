@@ -1093,6 +1093,6 @@ src_compile() {
 }
 
 src_install() {
-	dobin bin/${PN}
+	dobin ${PN}
 	einstalldocs
 }
