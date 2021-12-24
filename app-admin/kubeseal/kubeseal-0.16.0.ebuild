@@ -7,6 +7,7 @@ inherit go-module
 
 DESCRIPTION="Client-side utility for bitnami-labs/sealed-secrets"
 HOMEPAGE="https://github.com/bitnami-labs/sealed-secrets"
+
 # Building this list can be done by:
 # cd $(mktemp -d)
 # PV="0.16.0"
