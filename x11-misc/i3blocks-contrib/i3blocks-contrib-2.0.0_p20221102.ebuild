@@ -4,9 +4,12 @@
 EAPI=7
 inherit optfeature toolchain-funcs
 
+MY_PV="ce22d7666587ea8eedba79b30c5e54129898b4e7"
+
 DESCRIPTION="A set of scripts for i3blocks, contributed by the community"
 HOMEPAGE="https://github.com/vivien/i3blocks-contrib"
-SRC_URI="https://github.com/vivien/i3blocks-contrib/archive/ce22d7666587ea8eedba79b30c5e54129898b4e7.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://github.com/vivien/i3blocks-contrib/archive/${MY_PV}.tar.gz -> ${P}.tar.gz"
+S="${WORKDIR}/${PN}-${MY_PV}"
 
 LICENSE="GPL-3"
 SLOT="0"
